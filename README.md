@@ -8,3 +8,5 @@ I'm a software engineering student at General Assembly, seeking a developer posi
 - 📫 [email me](mailto:mollyajcarroll@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak sarcasm but not understand it
+
+![codewars stats](https://www.codewars.com/users/mollycarroll/badges/small)
