@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Molly
 
-I'm a developer at [ThoughtWorks](https://github.com/thoughtworks). 
+I'm a developer at [Thoughtworks](https://github.com/thoughtworks). 
 Visit my portfolio site at [mollycarroll.dev](https://www.mollycarroll.dev). 
 
 Languages: JavaScript, Python, HTML, CSS   
