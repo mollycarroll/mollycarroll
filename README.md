@@ -3,11 +3,13 @@
 I'm a developer at [Thoughtworks](https://github.com/thoughtworks). 
 Visit my portfolio site at [mollycarroll.dev](https://www.mollycarroll.dev). 
 
-Languages: JavaScript, Python, Java
+Languages: JavaScript/TypeScript, Python, Java
 
 Frameworks & Libraries: React.js, Node.js, Express.js, Django, Flask, Spring
 
 Databases: MongoDB, Mongoose, PostgreSQL, SQL
+
+DevOps: Docker, Kubernetes, Rancher, GitHub Actions
 
 - 📫 [email me](mailto:mollyajcarroll@gmail.com)
 - 😄 Pronouns: she/her
