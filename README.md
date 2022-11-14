@@ -14,3 +14,5 @@ DevOps: Docker, Kubernetes, Rancher, GitHub Actions
 - 📫 [email me](mailto:mollyajcarroll@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak sarcasm but not understand it
+
+![image](https://i.imgur.com/S8lBy6x.png)
