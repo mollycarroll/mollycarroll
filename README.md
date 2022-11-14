@@ -15,4 +15,4 @@ DevOps: Docker, Kubernetes, Rancher, GitHub Actions
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak sarcasm but not understand it
 
-![octocat](https://i.imgur.com/S8lBy6xm.png)
+![octocat](https://i.imgur.com/JqU5A8U.png)
