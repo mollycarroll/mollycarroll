@@ -10,6 +10,7 @@ Databases: MongoDB, Mongoose, PostgreSQL, SQL
 
 - 📫 [email me](mailto:mollyajcarroll@gmail.com)
 - :heavy_plus_sign: [LinkedIn](https://www.linkedin.com/in/mollyacarroll)
+- :link: [Linktree](https://linktr.ee/mollycarroll)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak sarcasm but not understand it
 
