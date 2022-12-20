@@ -9,7 +9,7 @@ DevOps: Docker, Kubernetes, Rancher, GitHub Actions\
 Databases: SQL, PostgreSQL, MongoDB, Mongoose
 
 - :link: [Linktree](https://linktr.ee/mollycarroll)
-- 📫 [email me](mailto:mollyajcarroll@gmail.com)
+- 📫 [Email](mailto:mollyajcarroll@gmail.com)
 - :heavy_plus_sign: [LinkedIn](https://www.linkedin.com/in/mollyacarroll)
 - :star: [Portfolio site](https://www.mollycarroll.dev). 
 - 😄 Pronouns: she/her
