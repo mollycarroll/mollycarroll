@@ -1,8 +1,6 @@
 ### Hi 👋 I'm Molly
 
-I'm a consultant software developer at [Thoughtworks](https://github.com/thoughtworks).\
-
-[[![Visits Badge](https://badges.strrl.dev/visits/${mollycarroll}/${mollycarroll})]](https://linktr.ee/mollycarroll)
+I'm a consultant software developer at [Thoughtworks](https://github.com/thoughtworks).
 
 Languages: JavaScript/TypeScript, Python, Java\
 Frameworks & Libraries: React.js, Node.js, Express.js, Django, Flask, Spring\
