@@ -1,6 +1,8 @@
 ### Hi 👋 I'm Molly
 
-I'm a consultant software developer at [Thoughtworks](https://github.com/thoughtworks).
+I'm a consultant software developer at [Thoughtworks](https://github.com/thoughtworks).\
+
+[![Visits Badge](https://badges.strrl.dev/visits/${mollycarroll}/${mollycarroll})]
 
 Languages: JavaScript/TypeScript, Python, Java\
 Frameworks & Libraries: React.js, Node.js, Express.js, Django, Flask, Spring\
@@ -15,4 +17,4 @@ Databases: SQL, PostgreSQL, MongoDB, Mongoose
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak sarcasm but not understand it
 
-[![octocat](https://i.imgur.com/JqU5A8U.png)](https://www.mollycarroll.dev)
+[![octocat](https://i.imgur.com/JqU5A8U.png)](https://linktr.ee/mollycarroll)
