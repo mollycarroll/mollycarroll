@@ -8,8 +8,6 @@ Testing: Jest, Cypress, JUnit, Mockito\
 DevOps: Docker, Kubernetes, Rancher, GitHub Actions\
 Databases: SQL, PostgreSQL, MongoDB, Mongoose
 
-- :link: [Linktree](https://linktr.ee/mollycarroll)
-- :star: [Portfolio site](https://www.mollycarroll.dev)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak sarcasm but not understand it
 
