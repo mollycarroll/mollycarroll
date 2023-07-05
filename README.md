@@ -8,4 +8,6 @@ Testing: Jest, Cypress, JUnit, Mockito\
 DevOps: Docker, Kubernetes, Rancher, GitHub Actions\
 Databases: SQL, PostgreSQL, MongoDB, Mongoose
 
-[![octocat](https://i.imgur.com/JqU5A8U.png)](https://linktr.ee/mollycarroll)
+[![octocat](https://i.imgur.com/JqU5A8U.png)](https://linktr.ee/mollycarroll)\
+
+📚 [Currently reading](https://www.goodreads.com/mollycarroll)
