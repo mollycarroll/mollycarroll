@@ -8,8 +8,12 @@ Testing: Jest, Cypress, JUnit, Mockito\
 DevOps: [Google Cloud Associate Engineer certification](https://cloud.google.com/learn/certification/cloud-engineer) in progress (11/2023), 
 Docker, Kubernetes, Rancher, GitHub Actions\
 Database skills: SQL, PostgreSQL, MongoDB, Mongoose
+Tooling: Git/GitHub\
+& more: technical product management, team + executive leadership, communication, creative problem solving, sweetly deadpan sense of humor :grin:
 
 [![octocat](https://i.imgur.com/JqU5A8U.png)](https://linktr.ee/mollycarroll)
+
+> There's a way to do it better - find it. -- Thomas Edison
 
 📚 [Currently reading...](https://www.goodreads.com/mollycarroll)\
 📝 [Tech blog](https://medium.com/@mollycarroll)
