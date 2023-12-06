@@ -6,9 +6,9 @@ Languages: JavaScript/TypeScript, Python, Java\
 Frameworks & Libraries: Spring/Spring Boot etc., React.js, Node.js, Express.js, Django, Flask\
 Testing: Jest, Cypress, JUnit, Mockito\
 DevOps: Docker, Kubernetes, Rancher, GitHub Actions\
-Database skills: SQL, PostgreSQL, MongoDB, Mongoose, Insomnia, Postman\
-Tooling: Git/GitHub\
-Cloud computing:  [Google Cloud Associate Engineer certification](https://cloud.google.com/learn/certification/cloud-engineer) in progress (12/2023) 
+Database skills: SQL, PostgreSQL, MongoDB, Mongoose\
+Tooling: Git/GitHub, Insomnia, Postman\
+Cloud computing:  [Google Cloud Associate Engineer certification](https://cloud.google.com/learn/certification/cloud-engineer) in progress (12/2023)\
 & more: technical product management, team + executive leadership, communication, creative problem solving, sweetly deadpan sense of humor :grin:
 
 [![octocat](https://i.imgur.com/JqU5A8U.png)](https://linktr.ee/mollycarroll)
