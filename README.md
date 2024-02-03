@@ -10,7 +10,7 @@ I'm a software developer at [Thoughtworks](https://github.com/thoughtworks). My 
 **DevOps**: Docker, Kubernetes, Rancher, GitHub Actions, Google Cloud Platform\
 **Databases**: SQL, PostgreSQL, MongoDB, Mongoose\
 **Tooling**: Git/GitHub, Insomnia, Postman\
-**Cloud computing**:  [Google Cloud Associate Engineer certification](https://cloud.google.com/learn/certification/cloud-engineer) in progress (exam 1/15/24)\
+**Cloud computing**:  [Google Cloud Associate Engineer certified](https://cloud.google.com/learn/certification/cloud-engineer)\
 & **more**: technical product management, engineering team + executive leadership, communication, creative problem solving, sweetly deadpan sense of humor :grin:
 
 ### What's next...
@@ -24,4 +24,3 @@ I'm a software developer at [Thoughtworks](https://github.com/thoughtworks). My 
 > There's a way to do it better - find it. -- Thomas Edison
 
 📚 [Currently reading...](https://www.goodreads.com/mollycarroll)\
-📝 [Tech blog](https://medium.com/@mollycarroll)
