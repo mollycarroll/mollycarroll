@@ -23,4 +23,4 @@ I'm a software developer at [Thoughtworks](https://github.com/thoughtworks). My 
 
 > There's a way to do it better - find it. -- Thomas Edison
 
-📚 [Currently reading...](https://www.goodreads.com/mollycarroll)\
+📚 [Currently reading...](https://www.goodreads.com/mollycarroll)
