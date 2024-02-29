@@ -14,9 +14,8 @@ I'm a software developer at [Thoughtworks](https://github.com/thoughtworks). My 
 & **more**: technical product management, engineering team + executive leadership, communication, creative problem solving, sweetly deadpan sense of humor :grin:
 
 ### What's next...
-- further training in AI app development
-- career growth positioning toward executive leadership
-- market validation for AI-driven clean tech software startup
+- genAI training facilitation & consulting @ Thoughtworks
+- super top secret AI software project @ :eyes:
 - and more! [any questions](mailto:mollyanncarroll@icloud.com)?
 
 [![octocat](https://i.imgur.com/JqU5A8U.png)](https://linktr.ee/mollycarroll)
