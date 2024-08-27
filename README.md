@@ -1,4 +1,3 @@
-# Molly Carroll
 ## software engineer / architect
 ### AI _whatever you need_: technical leadership, innovation & full cycle/stack solution design
 
