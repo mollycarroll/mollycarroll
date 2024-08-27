@@ -9,7 +9,7 @@ However, I mainly want to learn about opportunities for exciting + challenging w
 
 Previously I worked as a software developer + consultant at [Thoughtworks](https://github.com/thoughtworks) for about 3 years. My range of professional experience includes full stack software engineering (more backend than frontend overall) + architecture/design, DevOps/CI/CD, cloud computing and more, and I've been programming for many years before starting at Thoughtworks. 
 
-[Google Cloud Associate Engineer certified](https://cloud.google.com/learn/certification/cloud-engineer)\
+[Google Cloud Associate Engineer certified](https://cloud.google.com/learn/certification/cloud-engineer)
 
 [![octocat](https://i.imgur.com/JqU5A8U.png)](https://linkedin.com/mollyacarroll/)
 
