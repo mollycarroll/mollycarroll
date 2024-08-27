@@ -11,8 +11,6 @@ Previously I worked as a software developer + consultant at [Thoughtworks](https
 
 [Google Cloud Associate Engineer](https://www.credly.com/badges/b75b620b-6ea6-4dc9-9afd-59f02ccd1392/public_url)
 
-[![octocat](https://i.imgur.com/JqU5A8U.png)](https://linkedin.com/mollyacarroll/)
+📚 [Currently reading...](https://www.goodreads.com/mollycarroll)
 
 > There's a way to do it better - find it. -- Thomas Edison
-
-📚 [Currently reading...](https://www.goodreads.com/mollycarroll)
